@@ -7,8 +7,6 @@ Dev Angular, React and Node | 5th year Computer Engineering Student<br />
 - 🌱 As long as I breathe, I will be learning....I love learning new things.
 - 💬 Ask me anything! I'll help you the best way I can.
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='60'>
-
 ### ⚙️ Stacks that I use
 |![](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-NodeJs-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-React-black?logo=react&style=plastic)|![](https://img.shields.io/badge/-Angular-black?logo=angular&style=plastic)|![](https://img.shields.io/badge/-Express-black?logo=express&style=plastic)|![](https://img.shields.io/badge/-Html-black?logo=html5&style=plastic)|![](https://img.shields.io/badge/-Css-black?logo=css3&style=plastic)|![](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=plastic)|![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-C%23-black?logo=c-sharp&style=plastic)|![](https://img.shields.io/badge/-Java-black?logo=java&style=plastic)|
 |---|---|---|---|---|---|---|---|---|---|---|
