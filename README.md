@@ -19,9 +19,7 @@ Dev Angular, React and Node | 5th year Computer Engineering Student<br />
  <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"> <br/>
  <a href="https://www.linkedin.com/in/nilsonmazurchi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href="https://www.instagram.com/nilsonmazurchi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:nmazurchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- 
-![snake gif](https://github.com/nilsonmazurchi/nilsonmazurchi/blob/output/github-contribution-grid-snake.svg)
+<a href = "mailto:nmazurchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
 
